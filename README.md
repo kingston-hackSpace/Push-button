@@ -20,13 +20,13 @@ Arduino Code to turn on an LED using a Push-Button (pull-up)
 
 ### WIRING
 
-Wiring diagram : [here](https://github.com/kingston-hackSpace/Button_LED/blob/main/Diagram.png)
+Diagram reference image: [here](https://github.com/kingston-hackSpace/Button_LED/blob/main/Diagram.png)
 
 -----
 
 ### Code
 
-Code : [here](https://github.com/kingston-hackSpace/Button_LED/blob/main/Button_LED.ino)
+Upload [this code](https://github.com/kingston-hackSpace/Button_LED/blob/main/Button_LED.ino) to your Arduino Board
 
 -----
 
