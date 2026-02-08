@@ -21,7 +21,7 @@ Note: Remember that LEDs have a positive and negative lead. You may burn the LED
 
 - See wiring-diagram [here](https://github.com/kingston-hackSpace/Button_LED/blob/main/Diagram.png)
 
-- Upload [this code](https://github.com/kingston-hackSpace/Button_LED/blob/main/Button_LED.ino) to your Arduino Board
+- Upload [this code](https://github.com/kingston-hackSpace/Push-button/blob/main/simpleButton.ino) to your Arduino Board
 
 - Check your result:
     
