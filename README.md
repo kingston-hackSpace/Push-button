@@ -59,8 +59,11 @@ Note: Remember that LEDs have a positive and negative lead. You may burn the LED
 
 - The Arduino loops very fast and sometimes things in the physical world like buttons may not be fast enough. To eliminate errors and false readings from buttons and other switches, a “debounce” logic can be used. We will create a "debounce timer" to avoid this problem.
 
-- Follow [this tutorial](https://arduinogetstarted.com/tutorials/arduino-button-debounce)
+- Upload [this code](https://github.com/kingston-hackSpace/Push-button/blob/main/debounce.ino) to your Arduino board.
 
+- We have introduced millis() to create a short timer that acts as a filter for more stable readings. Any button state changes within the debounce period (e.g., 50 ms) are ignored. This ensures the Arduino only reacts to true button presses, making counters and event triggers reliable.
+
+- Rean more about millis() [here]
 
 -----
 
