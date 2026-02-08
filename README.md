@@ -49,7 +49,6 @@ Note: Remember that LEDs have a positive and negative lead. You may burn the LED
 
 - Here, we are no longer interested in “Is the button pressed?”. Instead, we ask “Did something just happen?”
 
-- In the previous example (STEP 1), the button presses would interfere with timing logic in our code. Instead, the logic used in this new example (STEP 2) is essential for multitasking, without stopping anything else in our code. In other words, our code won't be executing any isntructions while there is no change in buttonState. 
 
 **EXAMPLE 3: DEBOUNCING**
 
