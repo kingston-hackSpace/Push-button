@@ -45,22 +45,19 @@ Note: Remember that LEDs have a positive and negative lead. You may burn the LED
 
 - Upload [this code](https://github.com/kingston-hackSpace/Push-button/blob/main/edge_Detection.ino) to your Arduino board.
 
-- Here, we are no longer interested in “Is the button pressed?”. Instead, we ask “Did something just happen?”
+- We are no longer interested in *“Is the button pressed?”*. Instead, we ask *“Did something just happen?”*
 
 **EXAMPLE 3: COUNTER**
 
 - In this example, you will create a counter based on edge detection.
 
-- Upload [this code] to your Arduino board.
+- Upload [this code](https://github.com/kingston-hackSpace/Push-button/blob/main/counter.ino) to your Arduino board.
 
-- Do you get multiple counts when pressing the button? You need to debounce!
+- Do you get multiple counts when pressing the button? Then you need to debounce!
 
 **EXAMPLE 4: DEBOUNCING**
 
-
-**EXAMPLE 3: DEBOUNCING**
-
-- The Arduino loops very fast and sometimes things in the physical world like buttons may not be fast enough. To eliminate errors and false readings from buttons and other switches, a “debounce” routine can be used. We will create a "debounce timer" to avoid this problem.
+- The Arduino loops very fast and sometimes things in the physical world like buttons may not be fast enough. To eliminate errors and false readings from buttons and other switches, a “debounce” logic can be used. We will create a "debounce timer" to avoid this problem.
 
 - Follow [this tutorial](https://arduinogetstarted.com/tutorials/arduino-button-debounce)
 
