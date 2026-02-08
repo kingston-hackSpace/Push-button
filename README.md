@@ -20,7 +20,7 @@ Turn on an LED using a Push-Button (pull-up) and Arduino.
 
 ### WIRING
 
-Diagram reference image: [here](https://github.com/kingston-hackSpace/Button_LED/blob/main/Diagram.png)
+See diagram [here](https://github.com/kingston-hackSpace/Button_LED/blob/main/Diagram.png)
 
 Remember that LEDs have a positive and negative pin. You may burn the LED if wired incorrectly. See [here](https://github.com/kingston-hackSpace/Button_LED/blob/main/Understanding_LEDs.png)
 
