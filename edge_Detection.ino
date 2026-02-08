@@ -19,8 +19,8 @@ void loop() {
   if (buttonState != lastButtonState) {
     if (buttonState == LOW) {
       digitalWrite(ledPin, HIGH);
-      Serial.println("pressed")
-    }else{
+      Serial.println("pressed");
+    } else{
       digitalWrite(ledPin, LOW);
       Serial.println("released");
     }
