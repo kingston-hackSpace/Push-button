@@ -4,9 +4,12 @@ Also called: “latching push button switch”, “push on push off button”, �
 
 A latching push button mechanically locks when pressed once, and releases when pressed again — no electronics required.
 
+### DIY
+
 [Make your own latching push button](https://www.youtube.com/watch?v=VA7UGVCpcFk)
 
-Buy from:
+### Buy from:
+
 [Switch electronics](https://www.switchelectronics.co.uk/pages/search-results-page?q=latching%20push%20button)
 
 [RS Components](https://uk.rs-online.com/web/c/?searchTerm=latching+button)
